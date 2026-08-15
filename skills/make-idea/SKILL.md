@@ -1,5 +1,5 @@
 ---
-name: cuong-vy-story-create-idea
+name: make-idea
 description: Generate TikTok video ideas for Cường Vy Story (@cuongvystory, kênh chung của Cường và Vy) by pairing a channel-topic keyword with an audience-concern keyword from the channel's lưới 9 ô (9-cell / mandala grid), then tagging each idea with its content pillar. Use whenever the user asks for video or content ideas for Cường Vy Story / @cuongvystory — "ý tưởng video", "gợi ý nội dung" — even if they don't name lưới 9 ô explicitly.
 ---
 
