@@ -1,13 +1,11 @@
 ---
 name: cuong-vy-story-create-idea
-description: Generate TikTok video ideas for Cường Vy Story (@cuongvystory, kênh chung của Cường và Vy) using the lưới 9 ô (9-cell / mandala grid) ideation method — combining a channel-topic keyword with an audience-concern keyword into a concrete video idea, tagged with content pillar. Use whenever the user asks for "ý tưởng video", "gợi ý nội dung", "ý tưởng theo lưới 9 ô", wants to brainstorm content for Cường Vy Story or @cuongvystory, or says things like "cho tôi vài ý tưởng quay tuần này" in that context — even if they don't name the method explicitly. Self-contained: bundles the channel's two grids, 3 content pillars, and voice rules, so it produces the same correct output no matter which machine or project it's installed in.
+description: Generate TikTok video ideas for Cường Vy Story (@cuongvystory, kênh chung của Cường và Vy) by pairing a channel-topic keyword with an audience-concern keyword from the channel's lưới 9 ô (9-cell / mandala grid), then tagging each idea with its content pillar. Use whenever the user asks for video or content ideas for Cường Vy Story / @cuongvystory — "ý tưởng video", "gợi ý nội dung" — even if they don't name lưới 9 ô explicitly.
 ---
 
 # Cường Vy Story — Tạo ý tưởng video bằng lưới 9 ô
 
 Skill này tạo ý tưởng video TikTok cho kênh **Cường Vy Story** (@cuongvystory) bằng cách ghép một từ khóa "lĩnh vực kênh" với một từ khóa "vấn đề người xem quan tâm", rồi phát triển thành một câu ý tưởng cụ thể, gắn kèm trụ cột nội dung tương ứng.
-
-Toàn bộ dữ liệu skill cần (2 lưới, trụ cột, quy tắc giọng điệu) đã được đóng gói ngay trong file này — không cần đọc bất kỳ file nào khác trong project đang mở. Điều này để skill chạy đúng dù được cài ở máy khác hoặc dùng trong project khác không có sẵn tài liệu định hướng kênh.
 
 ## Bối cảnh kênh (đừng bỏ qua — quyết định việc ý tưởng có "đúng chất" hay không)
 
@@ -56,9 +54,8 @@ Trung tâm: *Người đi làm muốn có thêm một hướng phát triển.*
 
 ## Ví dụ ghép từ khóa → ý tưởng (giữ đúng tinh thần này khi phát triển ý tưởng mới)
 
+- Hành trình xây dựng thu nhập thứ 2 + Chưa rõ đích đến/chờ thời điểm hoàn hảo → "Tháng đầu tiên, tụi mình đặt mục tiêu thu nhập thêm sai hoàn toàn — số liệu thật và cách tụi mình chỉnh lại mốc." *(Pillar 1 — chú ý câu này chủ động nhận sai/hé lộ số liệu chưa đẹp, không chỉ khoe kết quả.)*
 - Quản lý thời gian + Thiếu thời gian/sợ ảnh hưởng công việc chính → "Cả hai đều đi làm fulltime, tụi mình sắp một tiếng buổi tối cho việc phát triển thêm như thế nào?"
-- Học kỹ năng mới + Không biết bắt đầu từ đâu → "3 tiêu chí tụi mình dùng để chọn kỹ năng cần học khi muốn phát triển thêm."
-- Công cụ AI, quản lý tài chính + Thiếu thời gian → "3 khâu tụi mình đang dùng AI để giảm thời gian chuẩn bị nội dung."
 - Người mentor + Sợ bị đánh giá → "Có người mentor khác gì với việc chỉ nghe lời khuyên từ bên ngoài?"
 - Đối thoại hai vợ chồng + Muốn chủ động hơn về thu nhập → "Có công việc ổn định rồi, vì sao hai đứa vẫn muốn phát triển thêm?"
 
@@ -68,7 +65,7 @@ Trung tâm: *Người đi làm muốn có thêm một hướng phát triển.*
 
 2. **Xác định cách chọn cặp từ khóa**:
    - Nếu người dùng chỉ định rõ 1 hoặc cả 2 từ khóa (kể cả nói mơ hồ, ví dụ "về AI" → khớp "Công cụ AI, quản lý tài chính"), ưu tiên dùng đúng từ khóa đó, ghép ngẫu nhiên với phía còn lại nếu người dùng chỉ nêu 1 bên.
-   - Nếu người dùng không chỉ định gì, chọn cặp ngẫu nhiên trong 8×8 = 64 tổ hợp có thể, **không lặp lại cùng một cặp trong cùng một lần trả lời** để đảm bảo đa dạng góc kể.
+   - Nếu người dùng không chỉ định gì, chọn cặp ngẫu nhiên trong 8×8 = 64 tổ hợp có thể, **không lặp lại cùng một cặp trong cùng một lần trả lời** để đảm bảo đa dạng góc kể. Khi tạo một loạt nhiều ý tưởng, phân bổ trụ cột theo đúng tỷ trọng 35/30/35 (ví dụ trong 10 ý tưởng: ~3-4 thuộc Pillar 1, ~3 thuộc Pillar 2, ~3-4 thuộc Pillar 3) thay vì để ngẫu nhiên tự lệch hẳn về một trụ cột.
 
 3. **Với mỗi cặp từ khóa, viết**:
    - Một câu ý tưởng video cụ thể, bám tình huống/trải nghiệm thật (theo đúng văn phong ví dụ mẫu ở trên — không viết dạng liệt kê mẹo chung chung).
@@ -82,6 +79,6 @@ Trung tâm: *Người đi làm muốn có thêm một hướng phát triển.*
       Trụ cột: Pillar 2 – Cách Làm Thật
    ```
 
-5. Không cần lưu ý tưởng ra file — chỉ trả lời trực tiếp trong hội thoại, trừ khi người dùng yêu cầu lưu lại. Không cần gợi ý định dạng quay (talking-to-camera/đối thoại/phân tích case) — việc đó để quyết định sau, khi lên kịch bản.
+5. Trả lời trực tiếp trong hội thoại; chỉ ghi ra file khi người dùng yêu cầu lưu lại.
 
 6. Trước khi đưa câu ý tưởng cuối cùng, tự kiểm tra lại với phần "Bối cảnh kênh" ở trên — nếu câu ý tưởng lỡ đóng khung thành "cơ hội kinh doanh"/"tuyển người" hoặc hứa hẹn kết quả, viết lại cho mở và trung thực hơn.
