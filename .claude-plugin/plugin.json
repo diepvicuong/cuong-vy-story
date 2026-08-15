@@ -1,0 +1,10 @@
+{
+  "name": "cuong-vy-story",
+  "version": "1.0.0",
+  "description": "Skill cho kênh TikTok Cường Vy Story (@cuongvystory): tạo ý tưởng video bằng phương pháp lưới 9 ô, bám đúng 3 trụ cột nội dung và insight người xem của kênh.",
+  "author": {
+    "name": "Cường Vy Story"
+  },
+  "homepage": "https://github.com/diepvicuong/cuong-vy-story",
+  "repository": "https://github.com/diepvicuong/cuong-vy-story"
+}

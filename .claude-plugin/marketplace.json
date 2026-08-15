@@ -1,0 +1,15 @@
+{
+  "name": "cuong-vy-story",
+  "owner": {
+    "name": "Cường Vy Story"
+  },
+  "description": "Skill nội bộ của kênh Cường Vy Story (@cuongvystory), đóng gói dạng plugin Claude Code để cài trên mọi máy.",
+  "plugins": [
+    {
+      "name": "cuong-vy-story",
+      "source": "./",
+      "description": "Tạo ý tưởng video TikTok cho Cường Vy Story bằng lưới 9 ô, gắn kèm trụ cột nội dung.",
+      "category": "productivity"
+    }
+  ]
+}
