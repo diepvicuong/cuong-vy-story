@@ -16,6 +16,7 @@ Sau khi cài, các skill bên dưới sẽ gọi được trực tiếp qua `/<t
 | Skill | Dùng khi nào |
 |---|---|
 | [`make-idea`](./skills/make-idea/SKILL.md) | Cần ý tưởng video cho Cường Vy Story, ghép từ khóa theo phương pháp lưới 9 ô, gắn kèm trụ cột nội dung. |
+| [`to-content`](./skills/to-content/SKILL.md) | Đã có ý tưởng, cần dựng thành content đầy đủ (outline rồi kịch bản/caption) cho Cường Vy Story, đi qua flow làm rõ → chọn framework → duyệt outline → viết đầy đủ. |
 | [`to-hook`](./skills/to-hook/SKILL.md) | Đã có ý tưởng/kịch bản video, cần viết câu hook mở đầu (3-5 giây đầu) theo công thức 38 kế — dùng được cho mọi kênh. |
 
 ## Thêm skill mới
