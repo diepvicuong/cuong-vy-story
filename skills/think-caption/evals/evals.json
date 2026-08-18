@@ -1,0 +1,26 @@
+{
+  "skill_name": "think-caption",
+  "evals": [
+    {
+      "id": 1,
+      "eval_name": "raw-idea-insurance-skepticism",
+      "prompt": "mình muốn làm video ngắn về chủ đề: nhiều người nghĩ mua bảo hiểm nhân thọ là phí tiền, giúp mình viết đoạn chữ chạy trên màn hình cho video này với, chưa có kịch bản nói gì hết, chỉ có chủ đề vậy thôi",
+      "expected_output": "Phân tích insight người xem (định kiến 'bảo hiểm là phí tiền/lừa đảo') rồi ra một chuỗi caption 3 lớp: bubble mở chạm định kiến đó, bubble khai triển có lý lẽ/số liệu cụ thể, bubble chốt là câu ngắn gọn đứng độc lập được.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "eval_name": "existing-article-retinol",
+      "prompt": "đây là bài mình tổng hợp được, viết giúp mình thành caption chạy trên video kiểu chữ hiện từng đoạn được không: 'Retinol là hoạt chất chống lão hóa hiệu quả nhưng gây kích ứng da nếu dùng sai cách. Nhiều người mới dùng retinol bị bong tróc, đỏ rát trong 2 tuần đầu rồi bỏ cuộc vì tưởng da không hợp. Thực ra đó là hiện tượng retinization bình thường, chỉ cần giảm tần suất dùng (2-3 lần/tuần thay vì mỗi ngày) và dùng kèm kem dưỡng ẩm, da sẽ thích nghi sau 4-6 tuần. Sau khi vượt qua giai đoạn này, da cải thiện rõ về nếp nhăn và mụn.'",
+      "expected_output": "Giữ nguyên chất liệu/số liệu thật từ bài viết (2 tuần, 2-3 lần/tuần, 4-6 tuần), không bịa tình huống mới; caption chạm định kiến 'da không hợp retinol' rồi khai triển giải thích retinization, chốt bằng thông điệp ngắn gọn.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "eval_name": "raw-idea-career-stagnation",
+      "prompt": "cho mình xin caption video về chủ đề: đi làm văn phòng 5 năm mà không được thăng chức, không biết nên nghỉ việc hay tiếp tục",
+      "expected_output": "Chủ đề khác hẳn tài chính/skincare (sự nghiệp) để kiểm tra công thức có generalize tốt không; vẫn cần phân tích insight người xem trước, rồi ra chuỗi caption 3 lớp đúng cấu trúc.",
+      "files": []
+    }
+  ]
+}

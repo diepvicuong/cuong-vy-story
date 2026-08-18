@@ -19,6 +19,7 @@ Sau khi cài, các skill bên dưới sẽ gọi được trực tiếp qua `/<t
 | [`quadrant-idea`](./skills/quadrant-idea/SKILL.md) | Cần ý tưởng video cho Cường Vy Story theo hệ trục 4 hướng (độ sẵn sàng người xem × độ sâu chủ đề), ra 4 loại nội dung: Giải pháp / Cảm xúc / Gieo mầm / Viral. |
 | [`to-content`](./skills/to-content/SKILL.md) | Đã có ý tưởng, cần dựng thành content đầy đủ (outline rồi kịch bản) cho Cường Vy Story, đi qua flow làm rõ → chọn framework → duyệt outline → viết đầy đủ. |
 | [`to-hook`](./skills/to-hook/SKILL.md) | Đã có ý tưởng/kịch bản video, cần viết câu hook mở đầu (3-5 giây đầu) theo công thức 38 kế — dùng được cho mọi kênh. |
+| [`think-caption`](./skills/think-caption/SKILL.md) | Có một chủ đề/bài viết/thông tin/ý tưởng, cần phân tích insight người xem rồi viết ra chuỗi caption (text-overlay) chạy trên video theo công thức mở-chạm-định-kiến → khai triển-có-số-liệu → chốt-quotable — dùng được cho mọi kênh. |
 
 ## Thêm skill mới
 
