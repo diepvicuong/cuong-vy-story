@@ -46,12 +46,14 @@ Số lượng bubble linh hoạt tuỳ độ phức tạp của input (có thể
 Trả lời trực tiếp trong hội thoại (chỉ ghi ra file khi người dùng yêu cầu lưu lại), theo thứ tự:
 
 1. Phần phân tích insight (4 điều ở bước 2), trình bày ngắn gọn.
-2. Chuỗi caption, mỗi bubble đánh số kèm vai trò, ví dụ:
+2. Chuỗi caption — chỉ đưa đúng phần chữ sẽ hiện lên màn hình, xuống dòng (cách nhau một dòng trống) mỗi khi chữ đổi sang đoạn mới, không đánh số, không ghi chú vai trò (mở/khai triển/chốt) kèm theo. Ba vai trò ở bước 3 là cách nghĩ khi *dựng* caption, không phải nhãn cần hiển thị ra kết quả cuối. Ví dụ:
 
    ```
-   Bubble 1 (mở): "..."
-   Bubble 2 (khai triển): "..."
-   Bubble 3 (chốt): "..."
+   ...
+
+   ...
+
+   ...
    ```
 
 ## Ghi chú / giới hạn
