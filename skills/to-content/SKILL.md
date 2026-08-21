@@ -15,7 +15,7 @@ Cường (IT) và Vy (Marketing) là vợ chồng cùng đi làm toàn thời gi
 - **Ngôn ngữ**: "đây là điều tụi mình đang thử/đang điều chỉnh" — tránh "đã kiểm chứng", "đã giúp thành công", tránh hứa hẹn kết quả hay biến case cá biệt thành công thức chung.
 - **Pillar 1 (Bằng Chứng Sống) luôn cần có phần chưa hiệu quả** — không chỉ khoe kết quả tốt. Đây là điểm bắt buộc, tạo tin cậy với người xem đã quá quen nội dung "khoe" giả.
 - **Không nội dung sức khỏe/skincare** trên kênh chung — thuộc phạm vi 2 kênh cá nhân khác, ngoài phạm vi kênh này.
-- **3 format ưu tiên**: talking-to-camera, đối thoại hai vợ chồng, phân tích tình huống/case trên màn hình. Không vlog.
+- **Không vlog** — tốn thời gian sản xuất, không phù hợp quỹ 30-60 phút/ngày. Ngoài ra không giới hạn sẵn danh sách format — chọn format phù hợp với từng ý tưởng.
 
 ## Chất liệu kể chuyện — điều làm nội dung dạng kể chuyện thật sự "ăn"
 
@@ -62,7 +62,7 @@ Chỉ làm bước này sau khi người dùng xác nhận chốt outline bằng
 
 Viết content đầy đủ (kịch bản nói được trên camera) dựa trên outline đã chốt, đúng giọng "case study đang sống" và các ràng buộc ở mục "Bối cảnh kênh". Tự viết **1 câu hook mở đầu** ngay trong bước này — skill này không gọi skill `to-hook` (quyết định đã chốt: `to-hook` là công cụ dùng riêng, độc lập với skill này).
 
-Kịch bản luôn viết cho **một người nói duy nhất**, kể cả khi "Format hình thức" trong outline ghi là đối thoại hai vợ chồng — trường đó chỉ mô tả ai xuất hiện trên hình khi quay, không quyết định cấu trúc lời thoại. Không chia lời theo tên người nói, không ghi chú "Vy:"/"Cường:" hay tương tự — ai đọc câu nào để lúc quay/dựng mới quyết. Xem chi tiết cách trình bày ở mục "Định dạng content đầy đủ" bên dưới.
+Kịch bản luôn viết cho **một người nói duy nhất**, dù "Format hình thức" trong outline ghi gì — trường đó chỉ mô tả ai xuất hiện trên hình khi quay, không quyết định cấu trúc lời thoại. Không chia lời theo tên người nói, không ghi chú "Vy:"/"Cường:" hay tương tự — ai đọc câu nào để lúc quay/dựng mới quyết. Xem chi tiết cách trình bày ở mục "Định dạng content đầy đủ" bên dưới.
 
 ## Framework nguồn (chọn 3 phù hợp nhất mỗi lần, không phải cả 5)
 
@@ -78,7 +78,7 @@ Kịch bản luôn viết cho **một người nói duy nhất**, kể cả khi 
 Ý tưởng: <câu ý tưởng đã chốt>
 Pillar: <Pillar 1/2/3 – tên pillar>
 Framework: <tên khung đã chọn>
-Format hình thức: <talking-to-camera / đối thoại hai vợ chồng / phân tích case màn hình>
+Format hình thức: <vd: talking-to-camera, phân tích case màn hình — chọn phù hợp với ý tưởng, không giới hạn theo danh sách cố định>
 Nguyên liệu cá nhân: <tóm tắt ngắn, hoặc "không có — dùng tình huống hư cấu hợp lý">
 Cảnh cụ thể + mốc thời gian: <khoảnh khắc sẽ dùng làm cảnh chính, kèm mốc thời gian/bối cảnh neo — xem mục "Chất liệu kể chuyện">
 Khúc ngoặt: <chi tiết/nhận thức lật lại mạch kể ở giữa, nếu có>

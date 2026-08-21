@@ -38,5 +38,25 @@ _Ngôn ngữ_: "đây là điều tụi mình đang thử/đang điều chỉnh"
 
 - **Pillar 3 — "Không Đơn Độc" (~35%)**: Gỡ rào cản theo 4 nhóm, không chỉ rào cản vợ chồng — (A) xã hội: sợ bị đánh giá "tham vọng"/việc tay trái, sợ bị đánh giá thiếu kiên trì nếu thử lại; (B) gia đình: sợ bạn đời không ủng hộ — lợi thế riêng chỉ kênh vợ chồng khai thác tự nhiên được, nhưng chỉ là 1/4 góc, không độc chiếm cả pillar; (C) tâm lý cá nhân: mất niềm tin, chờ "thời điểm hoàn hảo", ngộ nhận phải từ bỏ việc ổn định; (D) thực tế: sợ rủi ro tài chính/mất vốn, cảm giác "không có gì đặc biệt để bắt đầu".
 
-**format ưu tiên**: talking-to-camera,
+**Lưới 9 ô**:
+Phương pháp lên ý tưởng: ghép 1 từ khóa "lĩnh vực kênh" (Bảng 1) với 1 từ khóa "vấn đề người xem" (Bảng 2) để ra ý tưởng video. Xem chi tiết trong định hướng 30 ngày, Phần 5.
 
+## Quyết định đã chốt (theo định hướng 30 ngày hiện hành)
+
+- **Không dùng kênh làm phễu tuyển dụng** — dù trực tiếp hay gián tiếp, kể cả qua cách gọi mềm ("cơ hội kinh doanh", "người đồng hành"). Lý do: chính sách TikTok cấm nội dung tuyển người cho mô hình phân phối đa cấp; việc không nhắc tên Amway không tự động khiến nội dung an toàn nếu mục đích thực tế vẫn là tuyển người. Đây là ràng buộc nền tảng, không chỉ là lựa chọn định vị.
+- **Vai trò & vị thế**: xem mục "Vai trò & vị thế" ở trên — không phải người tuyển dụng hay chuyên gia đứng lớp, chia sẻ việc đã trực tiếp làm, nói rõ khi một cách làm còn đang thử nghiệm.
+- **Nếu có người chủ động hỏi về mô hình kinh doanh**: trả lời trung thực, nói rõ mô hình đứng sau (Amway) trước khi tư vấn sâu hơn — không giấu, không dẫn dắt.
+- **Mô hình tham gia Amway** (dùng khi cần trả lời trung thực nếu được hỏi, không phải nội dung chủ động): đăng ký miễn phí, không bắt buộc mua sản phẩm, không doanh số tối thiểu; thu nhập từ hoa hồng bán lẻ + hoa hồng phát triển đội nhóm; Cường Vy đào tạo không giới hạn thời gian, không thu phí — chỉ có thu nhập khi đội nhóm thực sự có doanh số.
+- **Không làm vlog** — tốn thời gian sản xuất, không phù hợp quỹ 30-60 phút/ngày.
+- **Kênh trao giá trị, không dựa vào ngoại hình/giải trí** — ưu tiên nội dung có giá trị/bài học thật.
+- **Không nội dung sức khỏe/skincare trên kênh chung** — các chủ đề này chỉ nằm trên 2 kênh cá nhân.
+- **Vai trò host**: Vy là host chính (dẫn chuyện, kết nối cảm xúc, thu voice khi cần); Cường thiên về phân tích, hệ thống, case. Cả hai có thể xuất hiện riêng hoặc cùng nhau tùy tuyến. Mỗi video nên có một người chịu trách nhiệm chính.
+- **Affiliate là hướng phụ, triển khai sau** — chưa đặt thành tuyến nội dung trong 30 ngày đầu. Khi triển khai, chỉ chọn sản phẩm liên quan rõ đến bối cảnh người đi làm/tự xây nội dung (đồ dùng làm việc, dụng cụ quay dựng, công cụ sắp xếp công việc...) — không chọn "sản phẩm bất kỳ theo trend".
+- **Nhịp sản xuất 30 ngày đầu**: 12-16 video, 3-4 video/tuần (tối thiểu 2 video/tuần nếu bận); quay gom 1 buổi tối/tuần cho 3-4 video, dựng dần. Quỹ thời gian 30-60 phút/ngày, tự làm tất cả, dùng CapCut Pro + AI hỗ trợ.
+- **Chưa có dữ liệu kết quả đủ ổn định để công bố** — tránh hứa hẹn thu nhập hoặc biến kết quả cá biệt (case bạn làm makeup, case kênh Cường) thành công thức bảo đảm chung.
+
+## Lịch sử quyết định đã thay thế
+
+Bản concept ban đầu (đã xóa khỏi thư mục) từng định vị kênh quanh việc thu hút/bảo trợ ứng viên kinh doanh (4 trụ cột gồm "giải oan hiểu lầm về MLM", ranh giới "tiết lộ Amway ngay khi inbox" như một bước trong phễu). Định hướng 30 ngày từ Team Duy Muối đã **thay thế** hướng này sau khi chỉ ra rủi ro vi phạm chính sách TikTok — xem phần "Quyết định đã chốt" ở trên để biết hướng hiện hành.
+
+"3 tuyến nội dung" (Tuyến 1/2/3, chia theo chức năng: cách làm / bằng chứng / cảm xúc) từ định hướng 30 ngày đã được **thay thế** bằng "3 pillar nội dung" (Bằng Chứng Sống / Cách Làm Thật / Không Đơn Độc). Lý do: tuyến cũ dễ trôi thành nội dung productivity chung chung, nguồn case mỏng, và insight quan trọng nhất của kênh (sợ bạn đời không ủng hộ) bị chìm trong mô tả tuyến thay vì được khai thác trực diện. 3 pillar mới đặt tên theo giá trị mang lại cho người xem (khớp trực tiếp với "Vai trò & vị thế" đã chốt), mở rộng phạm vi rào cản ra khỏi chỉ chuyện vợ chồng, và giữ nguyên số lượng 3 để phù hợp nhịp sản xuất 3-4 video/tuần.
